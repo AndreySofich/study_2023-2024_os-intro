@@ -103,7 +103,9 @@ monofontoptions: Scale=MatchLowercase,Scale=0.9
 
 ![Копирование](image/6.png)
 
-## Установим на гит
+## 
+
+Установим на гит
 
 ![Установка на GitHub](image/7.png)
 
